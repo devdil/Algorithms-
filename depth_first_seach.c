@@ -4,7 +4,6 @@
 #define false 0
 void depth_first_search(int);
 int visited[size];
-int parent[size];
 int graph[size][size];
 	int main()
 		{
